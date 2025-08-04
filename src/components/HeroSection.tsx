@@ -42,7 +42,7 @@ const HeroSection = () => {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl animate-fade-in">
                 <Avatar className="w-full h-full">
-                  <AvatarImage   src="/491417981_18044152289529177_4222495140787102735_n.jpg"
+                  <AvatarImage   src="C:/sadam/My portfolio/public/m0cou6vcry.jpg"
                     alt="Sadam Hussain"
                     className="object-cover w-full h-full object-top" />
                   <AvatarFallback className="text-2xl"> </AvatarFallback>
