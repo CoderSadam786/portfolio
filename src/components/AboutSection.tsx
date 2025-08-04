@@ -15,7 +15,7 @@ const AboutSection = () => {
               <div className="w-64 h-80 rounded-xl overflow-hidden shadow-xl border-8 border-white dark:border-gray-2000">       
                 <Avatar className="w-full h-full">       
                   <AvatarImage
-                    src="/491417981_18044152289529177_4222495140787102735_n.jpg"
+                    src="C:/sadam/My portfolio/public/m0cou6vcry.jpg"
                     alt="Sadam Hussain"
                     className="object-cover w-full h-full object-top"
                   />
